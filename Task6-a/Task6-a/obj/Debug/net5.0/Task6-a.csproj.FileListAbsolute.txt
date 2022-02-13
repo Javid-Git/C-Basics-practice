@@ -1,0 +1,16 @@
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\Task6-a.exe
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\Task6-a.deps.json
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\Task6-a.runtimeconfig.json
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\Task6-a.runtimeconfig.dev.json
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\Task6-a.dll
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\ref\Task6-a.dll
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\bin\Debug\net5.0\Task6-a.pdb
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.csproj.AssemblyReference.cache
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.AssemblyInfoInputs.cache
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.AssemblyInfo.cs
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.csproj.CoreCompileInputs.cache
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.dll
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\ref\Task6-a.dll
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.pdb
+C:\Users\Hozan-Batan\Desktop\Task6\Task6-a\Task6-a\obj\Debug\net5.0\Task6-a.genruntimeconfig.cache
